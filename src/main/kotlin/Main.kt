@@ -1,0 +1,1 @@
+fun main(args: Array<String>) = CommitCommentsCommand().main(args)
